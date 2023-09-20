@@ -1,0 +1,9 @@
+.boton{
+    display: block;
+    padding: 10px 25px;
+    border : none;
+    background-color: #6278F7;
+    font-size: 15px;
+    color: #f6f6f6;
+    cursor: pointer;
+}
